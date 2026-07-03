@@ -1,0 +1,1 @@
+Developed an interactive HR Employee Attrition Analysis Dashboard using Power BI to analyze employee turnover and key contributing factors. 🔍 Key areas analyzed:  ✅ Department-wise Attrition  ✅ Job Role Analysis  ✅ Overtime Impact  ✅ Job Satisfaction &amp; Work-Life Balance 🛠️ Tools Used: Power BI, Data Analytics &amp; Data Visualization.
